@@ -45,7 +45,7 @@ CREATE TABLE dept_emp (
 -- Drop dept_managers table if it exists
 DROP TABLE IF EXISTS dept_managers;
 
---Create dept_managers table
+-- Create dept_managers table
 CREATE TABLE dept_managers(
 	dept_no VARCHAR NOT NULL,
 	emp_no INT NOT NULL,
