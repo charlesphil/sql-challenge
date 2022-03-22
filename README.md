@@ -1,4 +1,4 @@
-# SQL-Challenge: Charles Phil Week 9 Homework
+# SQL-Challenge
 
 ## Database schema
 
